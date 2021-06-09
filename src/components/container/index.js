@@ -1,0 +1,4 @@
+import(
+    /* webpackChunkName: "ContainerApp" */
+    './App'
+);
